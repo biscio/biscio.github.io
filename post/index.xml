@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts |  Christophe A.N. Biscio </title>
+    <link>https://biscio.github.io/post/</link>
+      <atom:link href="https://biscio.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 19 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://biscio.github.io/images/icon_hue774743ad26a86fdf56cbd1bf105e866_18931_512x512_fill_lanczos_center_2.png</url>
+      <title>Posts</title>
+      <link>https://biscio.github.io/post/</link>
+    </image>
+    
+    <item>
+      <title>TEST</title>
+      <link>https://biscio.github.io/post/test/</link>
+      <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://biscio.github.io/post/test/</guid>
+      <description>
+
+
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;x=seq(0,1,0.1)
+print(x)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;##  [1] 0.0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1.0&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

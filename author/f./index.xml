@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F. |  Christophe A.N. Biscio </title>
+    <link>https://biscio.github.io/author/f./</link>
+      <atom:link href="https://biscio.github.io/author/f./index.xml" rel="self" type="application/rss+xml" />
+    <description>F.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://biscio.github.io/images/icon_hue774743ad26a86fdf56cbd1bf105e866_18931_512x512_fill_lanczos_center_2.png</url>
+      <title>F.</title>
+      <link>https://biscio.github.io/author/f./</link>
+    </image>
+    
+    <item>
+      <title>Contrast estimation for parametric stationary determinantal point processes</title>
+      <link>https://biscio.github.io/publication/2017_lavancier/</link>
+      <pubDate>Wed, 16 Aug 2017 16:59:28 +0200</pubDate>
+      <guid>https://biscio.github.io/publication/2017_lavancier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brillinger mixing of determinantal point processes and statistical applications</title>
+      <link>https://biscio.github.io/publication/2016a_lavancier_brillinger/</link>
+      <pubDate>Tue, 16 Aug 2016 16:59:42 +0200</pubDate>
+      <guid>https://biscio.github.io/publication/2016a_lavancier_brillinger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying repulsiveness of determinantal point processes</title>
+      <link>https://biscio.github.io/publication/2016b_lavancier_repulsive/</link>
+      <pubDate>Tue, 16 Aug 2016 16:59:38 +0200</pubDate>
+      <guid>https://biscio.github.io/publication/2016b_lavancier_repulsive/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R. |  Christophe A.N. Biscio </title>
+    <link>https://biscio.github.io/author/r./</link>
+      <atom:link href="https://biscio.github.io/author/r./index.xml" rel="self" type="application/rss+xml" />
+    <description>R.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://biscio.github.io/images/icon_hue774743ad26a86fdf56cbd1bf105e866_18931_512x512_fill_lanczos_center_2.png</url>
+      <title>R.</title>
+      <link>https://biscio.github.io/author/r./</link>
+    </image>
+    
+    <item>
+      <title>A general central limit theorem and a subsampling variance estimator for α‐mixing point processes</title>
+      <link>https://biscio.github.io/publication/2019_waagepetersen/</link>
+      <pubDate>Mon, 16 Dec 2019 16:58:00 +0200</pubDate>
+      <guid>https://biscio.github.io/publication/2019_waagepetersen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A note on gaps in proofs of central limit theorems</title>
+      <link>https://biscio.github.io/publication/2018_poinas_waagepetersen/</link>
+      <pubDate>Thu, 16 Aug 2018 16:58:17 +0200</pubDate>
+      <guid>https://biscio.github.io/publication/2018_poinas_waagepetersen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 |  Christophe A.N. Biscio </title>
+    <link>https://biscio.github.io/publication-type/2/</link>
+      <atom:link href="https://biscio.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 16 Aug 2020 15:56:15 +0200</lastBuildDate>
+    <image>
+      <url>https://biscio.github.io/images/icon_hue774743ad26a86fdf56cbd1bf105e866_18931_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>https://biscio.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Testing goodness of fit for point processes via topological data analysis</title>
+      <link>https://biscio.github.io/publication/2020_bchs_tda/</link>
+      <pubDate>Sun, 16 Aug 2020 15:56:15 +0200</pubDate>
+      <guid>https://biscio.github.io/publication/2020_bchs_tda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A general central limit theorem and a subsampling variance estimator for α‐mixing point processes</title>
+      <link>https://biscio.github.io/publication/2019_waagepetersen/</link>
+      <pubDate>Mon, 16 Dec 2019 16:58:00 +0200</pubDate>
+      <guid>https://biscio.github.io/publication/2019_waagepetersen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Point pattern simulation modelling of extensive and intensive chicken farming in Thailand: Accounting for clustering and landscape characteristics</title>
+      <link>https://biscio.github.io/publication/2019_chaiban_agriculture/</link>
+      <pubDate>Fri, 16 Aug 2019 16:42:01 +0200</pubDate>
+      <guid>https://biscio.github.io/publication/2019_chaiban_agriculture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The accumulated persistence function, a new useful functional summary statistic for topological data analysis, with a view to brain artery trees and spatial point process applications</title>
+      <link>https://biscio.github.io/publication/2019_moller_apf/</link>
+      <pubDate>Wed, 16 Jan 2019 16:59:05 +0200</pubDate>
+      <guid>https://biscio.github.io/publication/2019_moller_apf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A note on gaps in proofs of central limit theorems</title>
+      <link>https://biscio.github.io/publication/2018_poinas_waagepetersen/</link>
+      <pubDate>Thu, 16 Aug 2018 16:58:17 +0200</pubDate>
+      <guid>https://biscio.github.io/publication/2018_poinas_waagepetersen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contrast estimation for parametric stationary determinantal point processes</title>
+      <link>https://biscio.github.io/publication/2017_lavancier/</link>
+      <pubDate>Wed, 16 Aug 2017 16:59:28 +0200</pubDate>
+      <guid>https://biscio.github.io/publication/2017_lavancier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Standard and robust intensity parameter estimation for stationary determinantal point processes</title>
+      <link>https://biscio.github.io/publication/2016_coeurjolly/</link>
+      <pubDate>Tue, 16 Aug 2016 16:59:54 +0200</pubDate>
+      <guid>https://biscio.github.io/publication/2016_coeurjolly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brillinger mixing of determinantal point processes and statistical applications</title>
+      <link>https://biscio.github.io/publication/2016a_lavancier_brillinger/</link>
+      <pubDate>Tue, 16 Aug 2016 16:59:42 +0200</pubDate>
+      <guid>https://biscio.github.io/publication/2016a_lavancier_brillinger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying repulsiveness of determinantal point processes</title>
+      <link>https://biscio.github.io/publication/2016b_lavancier_repulsive/</link>
+      <pubDate>Tue, 16 Aug 2016 16:59:38 +0200</pubDate>
+      <guid>https://biscio.github.io/publication/2016b_lavancier_repulsive/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
