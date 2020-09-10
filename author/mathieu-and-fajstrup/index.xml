@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mathieu and Fajstrup |  Christophe A.N. Biscio </title>
+    <link>https://biscio.github.io/author/mathieu-and-fajstrup/</link>
+      <atom:link href="https://biscio.github.io/author/mathieu-and-fajstrup/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mathieu and Fajstrup</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Sep 2020 18:04:45 +0200</lastBuildDate>
+    <image>
+      <url>https://biscio.github.io/images/icon_hue774743ad26a86fdf56cbd1bf105e866_18931_512x512_fill_lanczos_center_2.png</url>
+      <title>Mathieu and Fajstrup</title>
+      <link>https://biscio.github.io/author/mathieu-and-fajstrup/</link>
+    </image>
+    
+    <item>
+      <title>Revealing hidden medium-range order in amorphous materials using topological data analysis</title>
+      <link>https://biscio.github.io/publication/2020_sbbfs_tda_kemi/</link>
+      <pubDate>Thu, 10 Sep 2020 18:04:45 +0200</pubDate>
+      <guid>https://biscio.github.io/publication/2020_sbbfs_tda_kemi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
