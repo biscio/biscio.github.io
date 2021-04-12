@@ -1,314 +1,208 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://biscio.github.io/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/talk/ex/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://biscio.github.io/publication/2021-04-12-spatstat-to-assess-inhibitory-effects-of-microregional-hypoxia-on-the-infiltration-of-cancers-of-the-head-and-neck-region-by-cytotoxic-t-lymphocytes/</loc>
+    <lastmod>2021-02-16T15:56:15+02:00</lastmod>
+  </url><url>
     <loc>https://biscio.github.io/publication-type/2/</loc>
-    <lastmod>2020-09-10T18:04:45+02:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-02-16T15:56:15+02:00</lastmod>
+  </url><url>
     <loc>https://biscio.github.io/authors/</loc>
-    <lastmod>2020-09-10T18:04:45+02:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-02-16T15:56:15+02:00</lastmod>
+  </url><url>
+    <loc>https://biscio.github.io/author/bankhead/</loc>
+    <lastmod>2021-02-16T15:56:15+02:00</lastmod>
+  </url><url>
+    <loc>https://biscio.github.io/author/biscio/</loc>
+    <lastmod>2021-02-16T15:56:15+02:00</lastmod>
+  </url><url>
+    <loc>https://biscio.github.io/author/c.a.n./</loc>
+    <lastmod>2021-02-16T15:56:15+02:00</lastmod>
+  </url><url>
+    <loc>https://biscio.github.io/author/kaufmann/</loc>
+    <lastmod>2021-02-16T15:56:15+02:00</lastmod>
+  </url><url>
+    <loc>https://biscio.github.io/author/mayer/</loc>
+    <lastmod>2021-02-16T15:56:15+02:00</lastmod>
+  </url><url>
+    <loc>https://biscio.github.io/publication_types/</loc>
+    <lastmod>2021-02-16T15:56:15+02:00</lastmod>
+  </url><url>
+    <loc>https://biscio.github.io/publication/</loc>
+    <lastmod>2021-02-16T15:56:15+02:00</lastmod>
+  </url><url>
+    <loc>https://biscio.github.io/author/rubak/</loc>
+    <lastmod>2021-02-16T15:56:15+02:00</lastmod>
+  </url><url>
+    <loc>https://biscio.github.io/author/schmidberger/</loc>
+    <lastmod>2021-02-16T15:56:15+02:00</lastmod>
+  </url><url>
+    <loc>https://biscio.github.io/author/zimmer/</loc>
+    <lastmod>2021-02-16T15:56:15+02:00</lastmod>
+  </url><url>
     <loc>https://biscio.github.io/author/c.a.n.-and-bauchy/</loc>
     <lastmod>2020-09-10T18:04:45+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/author/lisbeth-and-smedskjaer/</loc>
     <lastmod>2020-09-10T18:04:45+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/author/mathieu-and-fajstrup/</loc>
     <lastmod>2020-09-10T18:04:45+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://biscio.github.io/publication_types/</loc>
-    <lastmod>2020-09-10T18:04:45+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://biscio.github.io/publication/</loc>
-    <lastmod>2020-09-10T18:04:45+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/publication/2020_sbbfs_tda_kemi/</loc>
     <lastmod>2020-09-10T18:04:45+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/author/s%C3%B8ren-s.-and-biscio/</loc>
     <lastmod>2020-09-10T18:04:45+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/author/s%C3%B8rensen/</loc>
     <lastmod>2020-09-10T18:04:45+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/post/</loc>
     <lastmod>2020-08-19T17:53:22+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/post/test/</loc>
     <lastmod>2020-08-19T17:53:22+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://biscio.github.io/author/biscio/</loc>
-    <lastmod>2020-08-16T15:56:15+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/publication/2020_bchs_tda/</loc>
     <lastmod>2020-08-16T15:56:15+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/publication/2019_waagepetersen/</loc>
     <lastmod>2019-12-16T16:58:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/author/c.a.n.-waagepetersen/</loc>
     <lastmod>2019-12-16T16:58:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/publication-type/1/</loc>
     <lastmod>2019-08-16T16:58:48+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/publication/2019_ho_csc/</loc>
     <lastmod>2019-08-16T16:58:48+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/author/n.-ho-and-t.-b.-pedersen-and-m.-vu-and-v.-l.-ho-biscio/</loc>
     <lastmod>2019-08-16T16:58:48+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/author/chaiban/</loc>
     <lastmod>2019-08-16T16:42:01+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/publication/2019_chaiban_agriculture/</loc>
     <lastmod>2019-08-16T16:42:01+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/author/robinson/</loc>
     <lastmod>2019-08-16T16:42:01+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/author/s.o.-gilbert/</loc>
     <lastmod>2019-08-16T16:42:01+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/author/thanapongtharm/</loc>
     <lastmod>2019-08-16T16:42:01+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/author/tildesley/</loc>
     <lastmod>2019-08-16T16:42:01+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/author/van-wambeke/</loc>
     <lastmod>2019-08-16T16:42:01+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/author/xiao/</loc>
     <lastmod>2019-08-16T16:42:01+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/author/m%C3%B8ller/</loc>
     <lastmod>2019-01-16T16:59:05+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/publication/2019_moller_apf/</loc>
     <lastmod>2019-01-16T16:59:05+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/publication/2018_poinas_waagepetersen/</loc>
     <lastmod>2018-08-16T16:58:17+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/author/a.-waagepetersen/</loc>
     <lastmod>2018-08-16T16:58:17+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/author/poinas/</loc>
     <lastmod>2018-08-16T16:58:17+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/author/c.a.n.-lavancier/</loc>
     <lastmod>2017-08-16T16:59:28+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/publication/2017_lavancier/</loc>
     <lastmod>2017-08-16T16:59:28+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/author/coeurjolly/</loc>
     <lastmod>2016-08-16T16:59:54+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/publication/2016_coeurjolly/</loc>
     <lastmod>2016-08-16T16:59:54+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/publication/2016a_lavancier_brillinger/</loc>
     <lastmod>2016-08-16T16:59:42+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/publication/2016b_lavancier_repulsive/</loc>
     <lastmod>2016-08-16T16:59:38+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/tag/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/project/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/tags/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/author/c./</loc>
-  </url>
-  
-  <url>
-    <loc>https://biscio.github.io/author/c.a.n./</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/author/chenavier-n./</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/author/christophe-a.n.-biscio/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/author/f./</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/author/hirsch-c./</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/author/j./</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/author/j.f./</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/author/m./</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/author/morten-m./</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://biscio.github.io/author/p./</loc>
+  </url><url>
     <loc>https://biscio.github.io/author/r./</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/author/svane-a.m./</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/author/t.p./</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/author/w./</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biscio.github.io/author/x./</loc>
   </url>
-  
 </urlset>

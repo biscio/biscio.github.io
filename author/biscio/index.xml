@@ -5,12 +5,20 @@
     <link>https://biscio.github.io/author/biscio/</link>
       <atom:link href="https://biscio.github.io/author/biscio/index.xml" rel="self" type="application/rss+xml" />
     <description>Biscio</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 16 Aug 2020 15:56:15 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 16 Feb 2021 15:56:15 +0200</lastBuildDate>
     <image>
       <url>https://biscio.github.io/images/icon_hue774743ad26a86fdf56cbd1bf105e866_18931_512x512_fill_lanczos_center_2.png</url>
       <title>Biscio</title>
       <link>https://biscio.github.io/author/biscio/</link>
     </image>
+    
+    <item>
+      <title>&#39;Spatstat&#39; to Assess Inhibitory Effects of Microregional Hypoxia on the Infiltration of Cancers of the Head and Neck Region by Cytotoxic T Lymphocytes</title>
+      <link>https://biscio.github.io/publication/2021-04-12-spatstat-to-assess-inhibitory-effects-of-microregional-hypoxia-on-the-infiltration-of-cancers-of-the-head-and-neck-region-by-cytotoxic-t-lymphocytes/</link>
+      <pubDate>Tue, 16 Feb 2021 15:56:15 +0200</pubDate>
+      <guid>https://biscio.github.io/publication/2021-04-12-spatstat-to-assess-inhibitory-effects-of-microregional-hypoxia-on-the-infiltration-of-cancers-of-the-head-and-neck-region-by-cytotoxic-t-lymphocytes/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Testing goodness of fit for point processes via topological data analysis</title>
